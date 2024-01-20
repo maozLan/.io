@@ -6,7 +6,7 @@
   </head>
   <body>
     <h1>My Image Display Page</h1>
-    <img src="L1.jpg" alt="My Image">
+    <img src="L1.png" alt="My Image">
     <img src="L2.png" alt="My Image">
   </body>
 </html>
